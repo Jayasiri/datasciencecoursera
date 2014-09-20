@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Crated for Data Scientist Tool Box
+Created for Data Scientist Tool Box
